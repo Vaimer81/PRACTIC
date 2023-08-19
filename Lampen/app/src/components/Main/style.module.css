@@ -1,0 +1,32 @@
+.main {
+	background-color: #4FBFA5;
+	padding: 60px 0;
+}
+
+.container {
+	display: grid;
+	grid-template-columns: 480px 1fr;
+	gap: 130px;
+	align-items: center;
+}
+
+.info {
+	color: white;
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	font-style: italic;
+}
+
+.info a {
+	padding: 15px 20px;
+	background-color: #00868A;
+	color: white;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+main img {
+	width: 100%;
+	object-fit: contain;
+}

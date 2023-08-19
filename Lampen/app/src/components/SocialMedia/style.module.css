@@ -1,0 +1,9 @@
+.social_media {
+	font-size: 40px;
+	display: flex;
+	gap: 20px;
+}
+
+.social_media a {
+	color: #4FBFA5;
+}
